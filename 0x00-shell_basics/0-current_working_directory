@@ -1,1 +1,3 @@
-#!/bin/bash  realpath
+
+#!/bin/bash
+realpath
