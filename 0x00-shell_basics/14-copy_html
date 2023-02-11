@@ -1,2 +1,2 @@
 #!/bin/bash
-find 0x00-shell_basics -name '*.html' -print0 | xargs -0 -J % cp % ~/
+cp -u *.html ..
