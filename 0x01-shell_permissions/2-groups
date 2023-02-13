@@ -1,0 +1,2 @@
+#!/bin/bash
+groups | tr ' ' '\n' | awk '{print substr($0,1,5)}'
